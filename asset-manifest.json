@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/terryhong/static/css/main.705cd99f.chunk.css",
+    "main.js": "/terryhong/static/js/main.a6905098.chunk.js",
+    "main.js.map": "/terryhong/static/js/main.a6905098.chunk.js.map",
+    "runtime-main.js": "/terryhong/static/js/runtime-main.24b312e4.js",
+    "runtime-main.js.map": "/terryhong/static/js/runtime-main.24b312e4.js.map",
+    "static/js/2.838d7325.chunk.js": "/terryhong/static/js/2.838d7325.chunk.js",
+    "static/js/2.838d7325.chunk.js.map": "/terryhong/static/js/2.838d7325.chunk.js.map",
+    "static/js/3.824c4601.chunk.js": "/terryhong/static/js/3.824c4601.chunk.js",
+    "static/js/3.824c4601.chunk.js.map": "/terryhong/static/js/3.824c4601.chunk.js.map",
+    "index.html": "/terryhong/index.html",
+    "static/css/main.705cd99f.chunk.css.map": "/terryhong/static/css/main.705cd99f.chunk.css.map",
+    "static/js/2.838d7325.chunk.js.LICENSE.txt": "/terryhong/static/js/2.838d7325.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/terryhong/static/media/lol.c1d3195c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24b312e4.js",
+    "static/js/2.838d7325.chunk.js",
+    "static/css/main.705cd99f.chunk.css",
+    "static/js/main.a6905098.chunk.js"
+  ]
+}
